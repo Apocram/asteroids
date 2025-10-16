@@ -13,10 +13,6 @@ A simple Asteroids-style game built with Python and Pygame.
 - Python 3.7+
 - Pygame: `pip install pygame`
 
-### Run
-```bash
-python main.py
-
 ### Roadmap
 Scoring system
 Lives/respawn
@@ -24,5 +20,10 @@ Power-ups (shield, speed)
 Non-circular asteroid shapes
 Screen wrapping
 
-Changelog
+### Changelog
 See CHANGELOG.md.
+
+### Run
+```bash
+python main.py
+
